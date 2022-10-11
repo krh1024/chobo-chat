@@ -1,5 +1,7 @@
 <?php
 
+namespace Resources\Js\Pages;
+
 use Illuminate\Foundation\Application;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
