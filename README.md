@@ -7,7 +7,7 @@
 <h2>설치방법</h2>
 
 <ol>
-    <li> git pull origin https://github.com/krh1024/laravel8_vue3.git</li>
+    <li> git clone https://github.com/krh1024/laravel8_vue3.git</li>
     <li> composer install</li>
     <li> npm install</li>
     <li> cp .env.example .env  -> 치고나서 .env 에 DB 넣어줘야함</li>
